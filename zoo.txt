@@ -1,3 +1,32 @@
-palabras que no entiendo
-xxxx
-yyyyyyy
+Protovis
+Index Chart
+stream graphs
+Small Multiples
+Horizon Graphs
+Stem-and-Leaf Plots
+quantile-quantile 
+Q-Q plots
+SPLOM
+brushing-and-linking
+Parallel coordinates
+flow map 
+Reingold-Tilford algorithm
+dendrogram 
+scalable vector graphics (SVG)
+time-series
+Stacked Graphs
+stream graphs
+index chart
+small multiples
+Horizon graphs
+histograms
+box-and-whisker plots
+stem-and-leaf plot
+quantile-quantile plots
+Q-Q plotd
+brushing-and-linking
+Parallel coordinates 
+cartographic projection
+stroked lines
+flow map
+choropleth map
