@@ -12,7 +12,6 @@ dendrogram
 scalable vector graphics (SVG)
 Stacked Graphs
 Horizon graphs
-histograms
 box-and-whisker plots
 stem-and-leaf plot
 quantile-quantile plots
